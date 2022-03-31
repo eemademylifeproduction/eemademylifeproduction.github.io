@@ -145,7 +145,7 @@ header .navbar a:hover{
 }
 
 .home .content{
-  flex:1 1 120rem;
+  flex:1 1 100rem;
   background-image: url("images/bag.jpg");
   padding-bottom: 100px;
   padding-top: 100px;
