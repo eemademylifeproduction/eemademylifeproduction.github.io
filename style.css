@@ -141,9 +141,7 @@ header .navbar a:hover{
 .home{
   display: flex;
   flex-wrap: wrap;
-  gap:1.5rem;
   align-items: center;
-  background-color: lightblue;
 }
 
 .home .content{
@@ -583,18 +581,13 @@ header .navbar a:hover{
   }
 
   .dropdown {
-    padding-left: 271px;
-    padding-bottom: 30px;
+    padding-left: 298px;
+    padding-bottom: 130px;
     margin-bottom: 10px;
     position: absolute;
     top:100%; 
-    left:0; 
+    left: 0; 
     right:0;
-    background: white;
-    border-top: .1rem solid rgba(0,0,0,.2);
-    border-bottom: .1rem solid rgba(0,0,0,.2);
-    clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
-    padding-bottom: 40px;
   }
 
 }
@@ -611,18 +604,13 @@ header .navbar a:hover{
   }
 
   .dropdown {
-    padding-left: 271px;
-    padding-bottom: 30px;
+    padding-left: 109px;
+    padding-bottom: 120px;
     margin-bottom: 10px;
     position: absolute;
     top:100%; 
     left:0; 
     right:0;
-    background: white;
-    border-top: .1rem solid rgba(0,0,0,.2);
-    border-bottom: .1rem solid rgba(0,0,0,.2);
-    clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
-    padding-bottom: 40px;
   }
 } 
 
