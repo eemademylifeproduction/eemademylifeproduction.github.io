@@ -601,7 +601,11 @@ header .navbar a:hover{
     text-align: center;
   }
 
-
+  .dropdown {
+    padding-left: 271px;
+    padding-bottom: 30px;
+    margin-bottom: 10px;
+  }
 } 
 
 h2 {
