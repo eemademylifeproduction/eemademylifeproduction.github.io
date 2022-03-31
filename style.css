@@ -586,6 +586,15 @@ header .navbar a:hover{
     padding-left: 271px;
     padding-bottom: 30px;
     margin-bottom: 10px;
+    position: absolute;
+    top:100%; 
+    left:0; 
+    right:0;
+    background: white;
+    border-top: .1rem solid rgba(0,0,0,.2);
+    border-bottom: .1rem solid rgba(0,0,0,.2);
+    clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+    padding-bottom: 40px;
   }
 
 }
@@ -605,6 +614,15 @@ header .navbar a:hover{
     padding-left: 271px;
     padding-bottom: 30px;
     margin-bottom: 10px;
+    position: absolute;
+    top:100%; 
+    left:0; 
+    right:0;
+    background: white;
+    border-top: .1rem solid rgba(0,0,0,.2);
+    border-bottom: .1rem solid rgba(0,0,0,.2);
+    clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+    padding-bottom: 40px;
   }
 } 
 
